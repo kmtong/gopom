@@ -3,10 +3,11 @@ package gopom
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/stretchr/testify/assert"
 	"os"
 	"strconv"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 var p Project
